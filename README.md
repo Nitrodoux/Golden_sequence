@@ -1,4 +1,4 @@
-#Generator of golden sequences
+# Generator of golden sequences
 
 This project generates golden sequences. User set two initial elements and how many elements sequention contains. Subsequent elements and ratio of them are displayed. You can see that is going to "golden ration" (1.618 033 988). You can change color of elements which value is even or odd, ratio and all of them!
 
